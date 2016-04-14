@@ -59,7 +59,7 @@
 			var task = event.target.parentElement;
 			var list = task.parentElement.id;
 
-			lists[list==='done' ? 'todo' : 'done'].done.appendChild(task);
+			lists[list==='done' ? 'todo' : 'done'].appendChild(task);
 			this.checked = false;
 			input.focus();
 		};
