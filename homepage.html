@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/homepage.css">
+		<script src="scripts/oauthCallback.js"></script>
+		<script src="scripts/todoApp.js"></script>
+		<script src="scripts/apiClient.js"></script>
+		<script src="scripts/templateStore.js"></script>
+		<script src="scripts/tasksHandler.js"></script>
+		<script src="scripts/taskListHandler.js"></script>
+		<script src="scripts/homePageCtrl.js"></script>
+	</head>		
+	<body>
+		<div id="homepage">
+			<div id="taskList">
+				<ul id="listOfTaskList"> 
+					<li id="lastTaskListNode">
+						<div onclick='todoApp.addTaskListClick(event)'>
+							Add Task List
+							<img src="images/plussymbol.jpg">
+						</div>						
+					</li>					
+				</ul>
+			</div>
+
+			<div id="taskDescription"></div>			
+		</div>	
+	</body>	
+</html>
