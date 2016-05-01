@@ -43,3 +43,5 @@
 		b. You can delete the TASK by clicking the 'minus' symbol
 	
 		c. You can update the TASK by right-clicking on the Task.
+
+		(There is always one Default List for the user at the start)
