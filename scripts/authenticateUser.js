@@ -5,7 +5,7 @@
       var clientId = "407427159114-f6gdtjvsnrmlnru7kmhlq5quke128a3i.apps.googleusercontent.com";
       var scope = "https://www.googleapis.com/auth/tasks";
       var state = "oauthcallback";
-      var redirect_uri = "akshayscu.github.io/index.html";
+      var redirect_uri = "http://akshayscu.github.io/homepage.html";
 
       window.location = url + 
                         "scope=" + scope + 
