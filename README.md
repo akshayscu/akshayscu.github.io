@@ -13,13 +13,13 @@
 
 => oauthCallback.js: To handle the access token provided by Google Api.
 
-=> homePageCtrl.js: Handles all the functionalities, such as Update, Delete & Create 'Task LISTS' as well as Update, Delete & Create 'TASKS' within the Lists!
+=> homePageCtrl.js: Handles all the functionalities, such as Update, Delete & Create 'Task LISTS' as well as Update, Delete & Create 'TASKS' within the Lists! (homepage.html)
 
 => taskListHandler.js: Handles the Operations performed on the 'Task LISTS'.
 
 => tasksHandler.js: Handles the Operations performed on the 'TASKS'.
 
-=> templateStore.js: Helps with the Dynamic HTML creation!
+=> templateStore.js: Helps with the Dynamic HTML creation! (temp.html)
 
 => signUpApp.js & todoApp.js: For future use, to provide more features!
 
