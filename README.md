@@ -23,6 +23,8 @@
 
 => signUpApp.js & todoApp.js: For future use, to provide more features!
 
+(There is always one default list for the user at the start)
+
 *How to Use:*
 	
 	1. Sign in with your Google account credentials.
