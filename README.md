@@ -5,7 +5,7 @@
 
 2. Tasks_App, uses Google Tasks API in the backend. It needs a google account authorization sign-in.
 
-3. Written purely in JavaScript and no Frameworks used.
+3. Written purely in JavaScript and no Frameworks used also HTML & CSS is very minimalistic, will work on it in future.
 
 4. Details:
 
