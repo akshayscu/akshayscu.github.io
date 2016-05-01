@@ -24,6 +24,7 @@
 => signUpApp.js & todoApp.js: For future use, to provide more features!
 
 *How to Use:*
+	
 	1. Sign in with your Google account credentials.
 	2. Once Authenticated:
 		
