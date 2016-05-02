@@ -19,7 +19,7 @@
 
 => tasksHandler.js: Handles the Operations performed on the 'TASKS'.
 
-=> templateStore.js: Helps with the Dynamic HTML creation! (temp.html)
+=> templateStore.js: Helps with the Dynamic HTML creation!
 
 => signUpApp.js & todoApp.js: For future use, to provide more features!
 
