@@ -30,7 +30,7 @@
 	1. Sign in with your Google account credentials.
 	2. Once Authenticated:
 		
-		a. You can create New Task LISTS by clicking on the 'Add Task List'	
+		a. You can create New Task LISTS by clicking on the 'Add Task List' and *press ENTER* to see the Entry	
 		
 		b. You can delete the Task LIST by clicking the 'minus' symbol
 		
@@ -38,7 +38,7 @@
 		
 		*Similarly for the TASKS within the LISTS:*
 	
-		a. You can create New TASK by clicking on the 'Add Task'	
+		a. You can create New TASK by clicking on the 'Add Task' and *press ENTER* to see the Entry	
 	
 		b. You can delete the TASK by clicking the 'minus' symbol
 	
