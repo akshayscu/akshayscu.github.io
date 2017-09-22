@@ -1,9 +1,8 @@
-# akshayscu.github.io
-# Tasks_App
+# tasksApp
 
-1. Tasks_App: You can Create, Update and Delete TasksLists including the Tasks in it using the App, it uses your Google account 'Tasks' and keeps it updated when you make changes!
+1. tasksApp: You can Create, Update and Delete TasksLists including the Tasks in it using the App, it uses your Google account 'Tasks' and keeps it updated when you make changes!
 
-2. Tasks_App, uses Google Tasks API in the backend. It needs a google account authorization sign-in.
+2. tasksApp, uses Google Tasks API in the backend. It needs a google account authorization sign-in.
 
 3. Written purely in JavaScript and no Frameworks used also HTML & CSS is very minimalistic, will work on it in future.
 
